@@ -52,7 +52,7 @@ const CONFIG = {
     // },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Minseok Kim',
     description: '',
     imageURL: '',
   },
@@ -131,22 +131,22 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
-      conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      title: 'ViSA: Physics-based Virtual Stunt Actors for Ballistic Stunts',
+      conferenceName: 'SIGGRAPH 2025 (Journal Track)',
+      journalName: 'ACM Transactions on Graphics',
+      authors: 'Minseok Kim, Wonjeong Seo, Sung-Hee Lee, Jungdam Won',
+      link: 'https://drive.google.com/file/d/1THMwsGWLqivQCxL7jDl8pi2meyJjkWJV/view?usp=sharing',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'We introduce ViSA (Virtual Stunt Actors), an interactive animation system using deep reinforcement learning to generate realistic ballistic stunt actions. It efficiently produces dynamic scenes commonly seen in films and TV dramas, such as traffic accidents and stairway falls. A novel action space design enables scene generation within minutes.',
     },
     {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      title: 'Functionality-Driven Musculature Retargeting',
+      conferenceName: '',
+      journalName: 'Computer Graphics Forum',
+      authors: 'Hoseok Ryu, Minseok Kim, Seungwhan Lee, Moon Seok Park, Kyoungmin Lee, Jehee Lee',
+      link: 'https://mrl.snu.ac.kr/research/ProjectFunctionalityDriven/Functionality_Driven_Musculature_Retargeting.pdf',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'We present a novel retargeting algorithm that transfers the musculature of a reference anatomical model to new bodies with different sizes, body proportions, muscle capability, and joint range of motion while preserving the functionality of the original musculature as closely as possible.',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
