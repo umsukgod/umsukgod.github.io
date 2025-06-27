@@ -12,7 +12,7 @@ const CONFIG = {
   base: '/',
   projects: {
     github: {
-      display: false, // Display GitHub projects?
+      display: true, // Display GitHub projects?
       header: 'Github Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
@@ -80,8 +80,8 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-    // '', // Empty fileUrl will hide the `Download Resume` button.
-    'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+    '', // Empty fileUrl will hide the `Download Resume` button.
+    // 'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
