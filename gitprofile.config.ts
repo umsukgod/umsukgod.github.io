@@ -12,7 +12,7 @@ const CONFIG = {
   base: '/',
   projects: {
     github: {
-      display: true, // Display GitHub projects?
+      display: false, // Display GitHub projects?
       header: 'Github Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
@@ -51,11 +51,11 @@ const CONFIG = {
     //   ],
     // },
   },
-  // seo: {
-  //   title: 'Portfolio of Ariful Alam',
-  //   description: '',
-  //   imageURL: '',
-  // },
+  seo: {
+    title: 'Portfolio of Ariful Alam',
+    description: '',
+    imageURL: '',
+  },
   social: {
     // linkedin: 'ariful-alam',
     // x: 'arif_szn',
