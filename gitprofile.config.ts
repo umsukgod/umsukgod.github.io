@@ -78,11 +78,11 @@ const CONFIG = {
     phone: '',
     email: 'minseok@imo.snu.ac.kr',
   },
-  // resume: {
-  //   fileUrl:
-  //   '', // Empty fileUrl will hide the `Download Resume` button.
-  //   // 'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
-  // },
+  resume: {
+    fileUrl:
+    // '', // Empty fileUrl will hide the `Download Resume` button.
+    'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+  },
   skills: [
     'Python',
     'C++',
