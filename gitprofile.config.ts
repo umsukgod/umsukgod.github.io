@@ -108,14 +108,21 @@ const CONFIG = {
       companyLink: 'https://www.lgresearch.ai/',
     },
   ],
-  // certifications: [
-  //   {
-  //     name: 'Lorem ipsum',
-  //     body: 'Lorem ipsum dolor sit amet',
-  //     year: 'March 2022',
-  //     link: 'https://example.com',
-  //   },
-  // ],
+  // Awards
+  certifications: [
+    {
+      name: '3rd Place',
+      body: 'ICRA 2023 Humanoid Robot Wrestling Competition',
+      year: 'October 2023',
+      // link: 'https://github.com/cyberbotics/wrestling',
+    },
+    {
+      name: 'Best Presentation Award',
+      body: 'Korean Computer Graphics Society (KCGS)',
+      year: 'July 2024',
+      // link: 'http://cg-korea.org/index.php?hCode=AWARD_02_03',
+    },
+  ],
   educations: [
     {
       institution: 'KAIST',
