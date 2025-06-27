@@ -144,7 +144,7 @@ const CONFIG = {
       teaser: 'fdmr_gif2.gif',
       title: 'Functionality-Driven Musculature Retargeting',
       conferenceName: '',
-      journalName: 'Computer Graphics Forum',
+      journalName: 'Computer Graphics Forum 2021',
       authors: 'Hoseok Ryu, Minseok Kim, Seungwhan Lee, Moon Seok Park, Kyoungmin Lee, Jehee Lee',
       link: 'https://mrl.snu.ac.kr/research/ProjectFunctionalityDriven/Functionality_Driven_Musculature_Retargeting.pdf',
       description:
