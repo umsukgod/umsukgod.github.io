@@ -131,6 +131,7 @@ const CONFIG = {
   ],
   publications: [
     {
+      teaser: './public/apple-touch-icon.png',
       title: 'ViSA: Physics-based Virtual Stunt Actors for Ballistic Stunts',
       conferenceName: 'SIGGRAPH 2025 (Journal Track)',
       journalName: 'ACM Transactions on Graphics',

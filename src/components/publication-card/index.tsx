@@ -87,6 +87,15 @@ const PublicationCard = ({
             <div className="w-full">
               <div className="px-4">
                 <div className="text-center w-full">
+                  {item.teaser && (
+                    <div className="flex justify-center mb-4">
+                      <img
+                        src={item.teaser}
+                        alt="teaser"
+                        className="rounded-lg shadow-md"
+                      />
+                    </div>
+                  )}
                   <h2 className="font-medium opacity-60 mb-2">{item.title}</h2>
                   {item.conferenceName && (
                     <p className="text-base-content opacity-50 text-sm">
@@ -115,6 +124,13 @@ const PublicationCard = ({
         </div>
       </a>
     ));
+  };
+  const renderThumbnail = (thumbnail: string) => {
+    return (
+      <div className="flex justify-center mb-4">
+        <img src={thumbnail} alt="Thumbnail" className="rounded-lg shadow-md" />
+      </div>
+    );
   };
 
   return (
