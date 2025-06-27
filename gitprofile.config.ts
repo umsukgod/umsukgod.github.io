@@ -141,6 +141,7 @@ const CONFIG = {
         'We introduce ViSA (Virtual Stunt Actors), an interactive animation system using deep reinforcement learning to generate realistic ballistic stunt actions. It efficiently produces dynamic scenes commonly seen in films and TV dramas, such as traffic accidents and stairway falls. A novel action space design enables scene generation within minutes.',
     },
     {
+      teaser: 'fdmr_gif.gif',
       title: 'Functionality-Driven Musculature Retargeting',
       conferenceName: '',
       journalName: 'Computer Graphics Forum',
