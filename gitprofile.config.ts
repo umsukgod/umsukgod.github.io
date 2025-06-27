@@ -84,12 +84,13 @@ const CONFIG = {
     // 'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'Python',
-    'C++',
+    'Reinforcment Learning',
+    'Character Control',
+    'Physics Simulation',
     'IsaacGym',
     "DartSim",
     'MotionBuilder',
-    'Blender'
+    'Blender',
   ],
   experiences: [
     // {
@@ -134,7 +135,7 @@ const CONFIG = {
       teaser: 'visa_gif_zoom.gif',
       title: 'ViSA: Physics-based Virtual Stunt Actors for Ballistic Stunts',
       conferenceName: 'SIGGRAPH 2025 (Journal Track)',
-      journalName: 'ACM Transactions on Graphics',
+      // journalName: 'ACM Transactions on Graphics',
       authors: 'Minseok Kim, Wonjeong Seo, Sung-Hee Lee, Jungdam Won',
       link: 'https://drive.google.com/file/d/1THMwsGWLqivQCxL7jDl8pi2meyJjkWJV/view?usp=sharing',
       description:
