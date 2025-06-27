@@ -125,14 +125,6 @@ const PublicationCard = ({
       </a>
     ));
   };
-  const renderThumbnail = (thumbnail: string) => {
-    return (
-      <div className="flex justify-center mb-4">
-        <img src={thumbnail} alt="Thumbnail" className="rounded-lg shadow-md" />
-      </div>
-    );
-  };
-
   return (
     <Fragment>
       <div className="col-span-1 lg:col-span-2">

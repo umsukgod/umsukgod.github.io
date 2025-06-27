@@ -92,6 +92,7 @@ export interface SanitizedEducation {
 }
 
 export interface SanitizedPublication {
+  teaser: string;
   title: string;
   conferenceName?: string;
   journalName?: string;
