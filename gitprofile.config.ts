@@ -111,30 +111,31 @@ const CONFIG = {
   // Awards
   certifications: [
     {
-      name: '3rd Place',
-      body: 'ICRA 2023 Humanoid Robot Wrestling Competition',
-      year: 'October 2023',
-      // link: 'https://github.com/cyberbotics/wrestling',
-    },
-    {
       name: 'Best Presentation Award',
       body: 'Korean Computer Graphics Society (KCGS)',
       year: 'July 2024',
       // link: 'http://cg-korea.org/index.php?hCode=AWARD_02_03',
     },
+    {
+      name: '3rd Place',
+      body: 'ICRA 2023 Humanoid Robot Wrestling Competition',
+      year: 'October 2023',
+      // link: 'https://github.com/cyberbotics/wrestling',
+    },
+
   ],
   educations: [
-    {
-      institution: 'KAIST',
-      degree: 'B.S. in Compute Science',
-      from: '2012',
-      to: '2017',
-    },
     {
       institution: 'Seoul National University',
       degree: 'Ph.D. in Computer Science',
       from: '2017',
       to: 'Present',
+    },
+    {
+      institution: 'KAIST',
+      degree: 'B.S. in Compute Science',
+      from: '2012',
+      to: '2017',
     },
   ],
   publications: [
