@@ -238,6 +238,7 @@ interface Education {
 }
 
 interface Publication {
+  teaser: string;
   title: string;
   conferenceName?: string;
   journalName?: string;
