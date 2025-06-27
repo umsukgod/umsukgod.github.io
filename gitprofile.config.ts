@@ -131,6 +131,7 @@ const CONFIG = {
   ],
   publications: [
     {
+      imageUrl:'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
       title: 'ViSA: Physics-based Virtual Stunt Actors for Ballistic Stunts',
       conferenceName: 'SIGGRAPH 2025 (Journal Track)',
       journalName: 'ACM Transactions on Graphics',
@@ -146,7 +147,7 @@ const CONFIG = {
       authors: 'Hoseok Ryu, Minseok Kim, Seungwhan Lee, Moon Seok Park, Kyoungmin Lee, Jehee Lee',
       link: 'https://mrl.snu.ac.kr/research/ProjectFunctionalityDriven/Functionality_Driven_Musculature_Retargeting.pdf',
       description:
-        'We present a novel retargeting algorithm that transfers the musculature of a reference anatomical model to new bodies with different sizes, body proportions, muscle capability, and joint range of motion while preserving the functionality of the original musculature as closely as possible.',
+        'We present a novel retargeting algorithm that transfers the musculature of a reference anatomical model to new bodies with different sizes, body proportions, muscle capability, and joint range of motion while preserving the functionality of the original musculature as closely as possible. The retargeted model is simulation-ready, so we can physically simulate muscle-actuated motor skills with the model.',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
