@@ -145,7 +145,7 @@ const CONFIG = {
       conferenceName: 'SIGGRAPH 2025 (Journal Track)',
       // journalName: 'ACM Transactions on Graphics',
       authors: 'Minseok Kim, Wonjeong Seo, Sung-Hee Lee, Jungdam Won',
-      link: 'https://drive.google.com/file/d/1THMwsGWLqivQCxL7jDl8pi2meyJjkWJV/view?usp=sharing',
+      link: 'https://umsukgod.github.io/projects/visa.html',
       description:
         'We introduce ViSA (Virtual Stunt Actors), an interactive animation system using deep reinforcement learning to generate realistic ballistic stunt actions. It efficiently produces dynamic scenes commonly seen in films and TV dramas, such as traffic accidents and stairway falls. A novel action space design enables scene generation within minutes.',
     },
@@ -155,7 +155,7 @@ const CONFIG = {
       conferenceName: '',
       journalName: 'Computer Graphics Forum 2021',
       authors: 'Hoseok Ryu, Minseok Kim, Seungwhan Lee, Moon Seok Park, Kyoungmin Lee, Jehee Lee',
-      link: 'https://mrl.snu.ac.kr/research/ProjectFunctionalityDriven/Functionality_Driven_Musculature_Retargeting.pdf',
+      link: 'https://mrl.snu.ac.kr/research/ProjectFunctionalityDriven/fdmr.htm',
       description:
         'We present a novel retargeting algorithm that transfers the musculature of a reference anatomical model to new bodies with different sizes, body proportions, muscle capability, and joint range of motion while preserving the functionality of the original musculature as closely as possible. The retargeted model is simulation-ready, so we can physically simulate muscle-actuated motor skills with the model.',
     },
