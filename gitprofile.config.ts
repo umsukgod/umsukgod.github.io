@@ -92,19 +92,19 @@ const CONFIG = {
     'Blender'
   ],
   experiences: [
+    // {
+    //   company: 'Company Name',
+    //   position: 'Position',
+    //   from: 'September 2021',
+    //   to: 'Present',
+    //   companyLink: 'https://example.com',
+    // },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'LG AI Research',
+      position: 'Research Intern',
+      from: 'March 2022',
+      to: 'August 2022',
+      companyLink: 'https://www.lgresearch.ai/',
     },
   ],
   // certifications: [
@@ -131,7 +131,6 @@ const CONFIG = {
   ],
   publications: [
     {
-      imageUrl:'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
       title: 'ViSA: Physics-based Virtual Stunt Actors for Ballistic Stunts',
       conferenceName: 'SIGGRAPH 2025 (Journal Track)',
       journalName: 'ACM Transactions on Graphics',
