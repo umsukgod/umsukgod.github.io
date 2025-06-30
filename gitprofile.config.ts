@@ -112,7 +112,7 @@ const CONFIG = {
   certifications: [
     {
       name: 'Best Presentation Award',
-      body: 'Korean Computer Graphics Society (KCGS)',
+      body: 'Korea Computer Graphics Society (KCGS)',
       year: 'July 2024',
       // link: 'http://cg-korea.org/index.php?hCode=AWARD_02_03',
     },
@@ -133,7 +133,7 @@ const CONFIG = {
     },
     {
       institution: 'KAIST',
-      degree: 'B.S. in Compute Science',
+      degree: 'B.S. in School of Computing',
       from: '2012',
       to: '2017',
     },
