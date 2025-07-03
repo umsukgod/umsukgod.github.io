@@ -91,7 +91,6 @@ const CONFIG = {
     "DartSim",
     'MotionBuilder',
     'Blender',
-    '3D Pose Estimation',
   ],
   experiences: [
     // {
@@ -145,7 +144,7 @@ const CONFIG = {
       title: 'ViSA: Physics-based Virtual Stunt Actors for Ballistic Stunts',
       conferenceName: 'SIGGRAPH 2025 (Journal Track)',
       // journalName: 'ACM Transactions on Graphics',
-      authors: '<b>Minseok Kim</b>, Wonjeong Seo, Sung-Hee Lee, Jungdam Won',
+      authors: 'Minseok Kim, Wonjeong Seo, Sung-Hee Lee, Jungdam Won',
       link: 'https://umsukgod.github.io/projects/visa.html',
       description:
         'We introduce ViSA (Virtual Stunt Actors), an interactive animation system using deep reinforcement learning to generate realistic ballistic stunt actions. It efficiently produces dynamic scenes commonly seen in films and TV dramas, such as traffic accidents and stairway falls. A novel action space design enables scene generation within minutes.',
