@@ -37,7 +37,7 @@ const CertificationCard = ({
 }) => {
   const renderSkeleton = () => {
     const array = [];
-    for (let index = 0; index < 2; index++) {
+    for (let index = 0; index < 3; index++) {
       array.push(
         <ListItem
           key={index}
