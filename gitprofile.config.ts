@@ -113,7 +113,7 @@ const CONFIG = {
     {
       name: 'Google Travel Grant',
       body: 'Google',
-      year: 'June 2025',
+      year: 'July 2025',
       // link: 'http://cg-korea.org/index.php?hCode=AWARD_02_03',
     },
     {
