@@ -111,6 +111,12 @@ const CONFIG = {
   // Awards
   certifications: [
     {
+      name: 'Google Travel Grant',
+      body: 'Google',
+      year: 'June 2025',
+      // link: 'http://cg-korea.org/index.php?hCode=AWARD_02_03',
+    },
+    {
       name: 'Best Presentation Award',
       body: 'Korea Computer Graphics Society (KCGS)',
       year: 'July 2024',
@@ -127,7 +133,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'Seoul National University',
-      degree: 'Ph.D. in Computer Science',
+      degree: 'Ph.D. in Computer Science and Engineering',
       from: '2017',
       to: 'Present',
     },
