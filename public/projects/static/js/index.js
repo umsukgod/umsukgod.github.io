@@ -4,8 +4,8 @@ $(document).ready(function() {
     // Check for click events on the navbar burger icon
 
     var options = {
-			slidesToScroll: 2,
-			slidesToShow: 1,
+			slidesToScroll: 1,
+			slidesToShow: 2,
 			loop: true,
 			infinite: true,
 			autoplay: true,
