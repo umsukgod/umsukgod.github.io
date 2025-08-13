@@ -1,20 +1,26 @@
 window.HELP_IMPROVE_VIDEOJS = false;
 
 $(document).ready(function() {
-    // Check for click events on the navbar burger icon
+	// Attach carousels with explicit settings (no breakpoints so counts stay fixed)
+	bulmaCarousel.attach('#traffic-carousel', {
+		slidesToScroll: 1,
+		slidesToShow: 2,
+		loop: true,
+		infinite: true,
+		autoplay: true,
+		autoplaySpeed: 5000,
+		breakpoints: []
+	});
 
-    var options = {
-			slidesToScroll: 1,
-			slidesToShow: 1,
-			loop: true,
-			infinite: true,
-			autoplay: true,
-			autoplaySpeed: 5000,
-    }
+	bulmaCarousel.attach('#building-carousel', {
+		slidesToScroll: 1,
+		slidesToShow: 2,
+		loop: true,
+		infinite: true,
+		autoplay: true,
+		autoplaySpeed: 5000,
+		breakpoints: []
+	});
 
-		// Initialize all div with carousel class
-    var carousels = bulmaCarousel.attach('.carousel', options);
-	
-    bulmaSlider.attach();
-
+	bulmaSlider.attach();
 })
